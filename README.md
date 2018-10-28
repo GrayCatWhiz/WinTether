@@ -2,9 +2,8 @@
 Wifi Tethering Tool For Windows 
 
 ### Screenshot
-Sample Screenshot
-
 ![Image of WinTether](https://raw.githubusercontent.com/GrayCatWhiz/WinTether/master/Capture.PNG)
+
 (i forgot to change to my pseudonym :laughing: :fire:)
 
 ### Simple tool based on netsh
