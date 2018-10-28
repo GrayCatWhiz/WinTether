@@ -3,8 +3,9 @@ Wifi Tethering Tool For Windows
 
 ### Screenshot
 Sample Screenshot
-![Image of WinTether] https://raw.githubusercontent.com/GrayCatWhiz/WinTether/master/Capture.PNG
-(i forgot to change to my l33t name :laughing:)
+
+![Image of WinTether](https://raw.githubusercontent.com/GrayCatWhiz/WinTether/master/Capture.PNG)
+(i forgot to change to my pseudonym :laughing: :fire:)
 
 ### Simple tool based on netsh
 1. Create and start wifi hotspot instant with your device.
