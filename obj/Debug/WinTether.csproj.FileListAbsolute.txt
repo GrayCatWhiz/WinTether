@@ -1,0 +1,14 @@
+c:\users\mart\source\repos\WinTether\bin\Debug\WinTether.exe.config
+c:\users\mart\source\repos\WinTether\bin\Debug\WinTether.exe
+c:\users\mart\source\repos\WinTether\bin\Debug\WinTether.pdb
+c:\users\mart\source\repos\WinTether\bin\Debug\Bunifu_UI_v1.5.3.dll
+c:\users\mart\source\repos\WinTether\obj\Debug\WinTether.csprojAssemblyReference.cache
+c:\users\mart\source\repos\WinTether\obj\Debug\WinTether.Properties.Resources.resources
+c:\users\mart\source\repos\WinTether\obj\Debug\WinTether.csproj.GenerateResource.cache
+c:\users\mart\source\repos\WinTether\obj\Debug\WinTether.csproj.CoreCompileInputs.cache
+c:\users\mart\source\repos\WinTether\obj\Debug\WinTether.csproj.CopyComplete
+c:\users\mart\source\repos\WinTether\obj\Debug\WinTether.exe
+c:\users\mart\source\repos\WinTether\obj\Debug\WinTether.pdb
+c:\users\mart\source\repos\WinTether\obj\Debug\WinTether.Main.resources
+c:\users\mart\source\repos\WinTether\bin\Debug\MaterialSkin.dll
+c:\users\mart\source\repos\WinTether\bin\Debug\MaterialSkin.pdb

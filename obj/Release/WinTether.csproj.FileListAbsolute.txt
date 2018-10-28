@@ -1,0 +1,14 @@
+C:\Users\Mart\source\repos\WinTether\bin\Release\WinTether.exe.config
+C:\Users\Mart\source\repos\WinTether\bin\Release\WinTether.exe
+C:\Users\Mart\source\repos\WinTether\bin\Release\WinTether.pdb
+C:\Users\Mart\source\repos\WinTether\bin\Release\Bunifu_UI_v1.5.3.dll
+C:\Users\Mart\source\repos\WinTether\bin\Release\MaterialSkin.dll
+C:\Users\Mart\source\repos\WinTether\bin\Release\MaterialSkin.pdb
+C:\Users\Mart\source\repos\WinTether\obj\Release\WinTether.csprojAssemblyReference.cache
+C:\Users\Mart\source\repos\WinTether\obj\Release\WinTether.Main.resources
+C:\Users\Mart\source\repos\WinTether\obj\Release\WinTether.Properties.Resources.resources
+C:\Users\Mart\source\repos\WinTether\obj\Release\WinTether.csproj.GenerateResource.cache
+C:\Users\Mart\source\repos\WinTether\obj\Release\WinTether.csproj.CoreCompileInputs.cache
+C:\Users\Mart\source\repos\WinTether\obj\Release\WinTether.csproj.CopyComplete
+C:\Users\Mart\source\repos\WinTether\obj\Release\WinTether.exe
+C:\Users\Mart\source\repos\WinTether\obj\Release\WinTether.pdb
